@@ -6,7 +6,7 @@
 ```
 go get github.com/chenkai0313/go-wx
 
-已封装了延迟队列方法 
+
 ```
 
 #### 使用事例
